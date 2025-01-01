@@ -36,8 +36,8 @@ This is a full-stack blog website application developed for the company **Collas
 1.**Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/blog-website-collasyn.git
-   cd blog-website-collasyn
+   git clone https://github.com/sbn-raju/Blogs_Backend.git
+   cd Blogs_Backend
    ```
 
 2. **Setup the Backend:**
