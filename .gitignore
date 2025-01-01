@@ -1,0 +1,7 @@
+node_modules
+
+
+# Do not allow any of the files with .env
+.env
+*.env
+.env*
